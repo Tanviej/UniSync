@@ -1,25 +1,25 @@
-# 🎓 UniSync
+#  UniSync
 
 UniSync is a desktop application built with **Python** and **Tkinter** to help students stay organized by managing their timetable, events, and daily tasks in one place.
 
-## ✨ Features
+##  Features
 
-- 🔐 Login system
-- 🎉 Animated welcome screen
-- 📅 Interactive calendar
-- 📖 Daily timetable viewer
-- 📝 Upcoming events section
-- ✅ To-do list with task management
-- 🚪 Logout functionality
+-  Login system
+-  Animated welcome screen
+-  Interactive calendar
+-  Daily timetable viewer
+-  Upcoming events section
+-  To-do list with task management
+-  Logout functionality
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Tkinter
 - Pillow (PIL)
 - Calendar Module
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 UniSync/
@@ -41,7 +41,7 @@ UniSync/
 └── README.md
 ```
 
-## 🚀 Installation
+##  Installation
 
 Clone the repository:
 
@@ -61,7 +61,7 @@ Run the application:
 python unisync.py
 ```
 
-## 🌱 Future Improvements
+##  Future Improvements
 
 - Database integration
 - User registration
@@ -69,8 +69,8 @@ python unisync.py
 - Dark mode
 - Responsive interface
 
-## 👩‍💻 Developer
+##  Developer
 
-**Tanvi J**
+**Tanvi, Anushka, Anushree, Hiral**
 
 Built as a student productivity application using Python and Tkinter.
